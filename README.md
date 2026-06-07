@@ -72,26 +72,6 @@ This repository documents my journey from understanding API fundamentals to impl
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Gemini-API-Automation/
-│
-├── Basics/
-├── API_Handling/
-├── JSON_Parsing/
-├── Structured_Output/
-├── Pydantic/
-├── Function_Calling/
-├── Prompt_Engineering/
-│
-├── .env.example
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🎯 Learning Objectives
 
 Through this repository I learned how to:
