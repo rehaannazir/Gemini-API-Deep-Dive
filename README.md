@@ -1,6 +1,4 @@
-# Gemini-API-Deep-Dive
-
-# 🤖 Gemini API for AI Automation
+# 🤖 Gemini-API-Deep-Dive
 
 A complete hands-on learning repository covering the core concepts required to build AI-powered automation systems using the Gemini API and Python.
 
